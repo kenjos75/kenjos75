@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNiejN5czR4b3B3dHlteTd3YmVtbnp1aHczd3JuZ2ZiYjMyeG55eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="100" alt="Monkey code" />
 
   <h1>Hello, I am Kenneth</h1>
-  <h3>Full Stack Engineer | React &amp; Next.js | Django &amp; Laravel | Flutter | Indie Game Developer</h3>
+  <h3>Full Stack Engineer | React &amp; Next.js | Django &amp; Laravel | Flutter | React Native | Indie Game Developer</h3>
 
   <p>
     10+ years building web apps, SaaS platforms, and cross-platform mobile apps.<br>
