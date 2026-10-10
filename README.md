@@ -24,7 +24,7 @@ I'm a full stack engineer based in the Philippines with **10+ years of web devel
 
 - Currently focused on **Next.js, React, Django REST, Node/Express, and PostgreSQL**
 - Comfortable with the full delivery pipeline: **Docker, Nginx, AWS, Kubernetes, and GitHub Actions CI/CD**
-- Built mobile apps in **Java, Swift, Flutter, and React Native (Expo)**
+- Built mobile apps in **Java, Kotlin, Swift, Flutter, and React Native (Expo)**
 - Building **AI-powered features and automated workflows** with third-party APIs
 - Publish **2D indie games** on the Google Play Store in my spare time
 - Enjoy mentoring developers and working closely with cross-functional teams
