@@ -12,6 +12,7 @@
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590429328041)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenjos75@gmail.com)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=flat&logo=vercel&logoColor=white)](https://kenjos75.github.io)
+  [![Tsukushi Labs](https://img.shields.io/badge/-Tsukushi%20Labs-6C72FF?style=flat&logo=googlechrome&logoColor=white)](https://tsukushilabs.com)
   [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/kenneth-john-rosales)
 
 </div>
@@ -27,7 +28,7 @@ I'm a full stack engineer based in the Philippines with **10+ years of web devel
 - Built mobile apps in **Flutter (Dart)**, **React Native (Expo)**, Java, Kotlin, and Swift
 - Exploring **on-device machine learning in Flutter** with LiteRT (real-time object detection from the camera)
 - Building **AI-powered features and automated workflows** with third-party APIs
-- Publish **2D indie games** on the Google Play Store in my spare time
+- Founded the startup **[Tsukushi Labs](https://tsukushilabs.com)**, an indie studio publishing **pixel art games** on Google Play
 - Enjoy mentoring developers and working closely with cross-functional teams
 
 ---
@@ -76,15 +77,20 @@ I'm a full stack engineer based in the Philippines with **10+ years of web devel
 
 ### Indie Games (Google Play Store)
 
-| Game | Description | Link |
+Published under my studio, **[Tsukushi Labs](https://tsukushilabs.com)**.
+
+| Game | Description | Status |
 | :-- | :-- | :-- |
-| **Dinosaur Run** | 2D endless runner about a lone dinosaur dodging cacti to escape extinction. Java, Box2D, Texture Packer. | [Play Store](https://play.google.com/store/apps/details?id=com.kennethjohnrosales.game) |
-| **King and Pigs** | 2D platformer where a king fights to win back his stolen coins from the enemy pigs. Java, Box2D, Texture Packer. | [Play Store](https://play.google.com/store/apps/details?id=com.kingspigs.game) |
+| **Sprout Valley** | Cozy pixel art farm-life adventure. Grow crops, raise animals, do quests for the villagers, dress up your farmer, and make friends with the village dogs and cats. Plays offline, no ads. | [Play Store](https://play.google.com/store/apps/details?id=com.kenetashigame.sproutvalley) |
+| **Adventure of White Prince** | 2.5D pixel art sword adventure. Slash and dash through ten levels of the High Forest, with day, night and rain, a flowing river with flying fish, and a special Dash Slash attack. | In review on Google Play |
+| **Viking Valley** | 3D Viking farm and adventure game. Build a homestead in Golden Village, then sail to Asgard to forge gear and fight through the halls of Gladsheim with skills like Whirlwind, Thor's Thunder and Battle Cry. | In review on Google Play |
+| **King and Pigs** | Fast pixel art platformer. Run, jump and swing through five levels, collect every coin, and take on the Pig King at the end. | In review on Google Play |
 
 ---
 
 ## Experience Highlights
 
+- **Founder** | [Tsukushi Labs](https://tsukushilabs.com) *(2026 – Present)*: Founded a startup that builds pixel art games for Google Play. Shipped Sprout Valley, with three more games in review.
 - **Full Stack Web Developer** | Appaloosa Tech *(2025 – 2026)*: Full-stack apps and SaaS with Next.js, React, Express, PostgreSQL; OAuth and API integrations; AI-powered workflows; CI/CD with GitHub Actions.
 - **Full Stack Web Developer (Part-time)** | Billntrade, Caveman Training *(2025)*: SaaS backend with Django, Celery, and Redis; custom WordPress plugins and Gutenberg blocks with React.
 - **Full Stack Developer** | Freelance, Upwork *(2024 – 2025)*: Designed and deployed a containerized AI video-generation platform on AWS EKS.
@@ -101,7 +107,8 @@ I'm a full stack engineer based in the Philippines with **10+ years of web devel
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-View%20My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white)](https://kenjos75.github.io)
-[![Google Play](https://img.shields.io/badge/-My%20Games%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kennethjohnrosales.game)
+[![Google Play](https://img.shields.io/badge/-My%20Games%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kenetashigame.sproutvalley)
+[![Tsukushi Labs](https://img.shields.io/badge/-Tsukushi%20Labs-6C72FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tsukushilabs.com)
 
 </div>
 
@@ -109,4 +116,4 @@ I'm a full stack engineer based in the Philippines with **10+ years of web devel
 
 ## Let's Connect
 
-I'm open to **full-stack, front-end, and mobile opportunities**, including remote and freelance work. Feel free to reach out through any of the links above or email me at **kenjos75@gmail.com**.
+I'm open to **full-stack, front-end, and mobile opportunities**, including remote and freelance work. Feel free to reach out through any of the links above or email me at **[kenjos75@gmail.com](mailto:kenjos75@gmail.com)** or **[kenneth@tsukushilabs.com](mailto:kenneth@tsukushilabs.com)**.
