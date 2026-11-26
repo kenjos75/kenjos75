@@ -107,7 +107,7 @@ Published under my studio, **[Tsukushi Labs](https://tsukushilabs.com)**.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-View%20My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white)](https://kenjos75.github.io)
-[![Google Play](https://img.shields.io/badge/-My%20Games%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kenetashigame.sproutvalley)
+[![Google Play](https://img.shields.io/badge/-My%20Games%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Tsukushi+Labs)
 [![Tsukushi Labs](https://img.shields.io/badge/-Tsukushi%20Labs-6C72FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tsukushilabs.com)
 
 </div>
