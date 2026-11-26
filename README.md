@@ -85,12 +85,13 @@ Published under my studio, **[Tsukushi Labs](https://tsukushilabs.com)**.
 | **Adventure of White Prince** | 2.5D pixel art sword adventure. Slash and dash through ten levels of the High Forest, with day, night and rain, a flowing river with flying fish, and a special Dash Slash attack. | In review on Google Play |
 | **Viking Valley** | 3D Viking farm and adventure game. Build a homestead in Golden Village, then sail to Asgard to forge gear and fight through the halls of Gladsheim with skills like Whirlwind, Thor's Thunder and Battle Cry. | In review on Google Play |
 | **King and Pigs** | Fast pixel art platformer. Run, jump and swing through five levels, collect every coin, and take on the Pig King at the end. | In review on Google Play |
+| **Davao Tycoon** | 3D property-trading board game set in Davao City. Buy landmarks like Mt. Apo and Lon Wa Temple, collect rent, build them up and bankrupt your rivals, with optional Davao twists like Kadayawan Festival and typhoons. Pass-and-play, computer players, Wi-Fi, or online rooms for 2 to 6 players. No ads, no in-app purchases. | In review on Google Play |
 
 ---
 
 ## Experience Highlights
 
-- **Founder** | [Tsukushi Labs](https://tsukushilabs.com) *(2026 – Present)*: Founded a startup that builds pixel art games for Google Play. Shipped Sprout Valley, with three more games in review.
+- **Founder** | [Tsukushi Labs](https://tsukushilabs.com) *(2026 – Present)*: Founded a startup that builds pixel art games for Google Play. Shipped Sprout Valley, with four more games in review.
 - **Full Stack Web Developer** | Appaloosa Tech *(2025 – 2026)*: Full-stack apps and SaaS with Next.js, React, Express, PostgreSQL; OAuth and API integrations; AI-powered workflows; CI/CD with GitHub Actions.
 - **Full Stack Web Developer (Part-time)** | Billntrade, Caveman Training *(2025)*: SaaS backend with Django, Celery, and Redis; custom WordPress plugins and Gutenberg blocks with React.
 - **Full Stack Developer** | Freelance, Upwork *(2024 – 2025)*: Designed and deployed a containerized AI video-generation platform on AWS EKS.
